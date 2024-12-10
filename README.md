@@ -97,4 +97,4 @@ Feel free to contribute to this project by opening a pull request. For major cha
 This project is licensed under the terms of the MIT license. 
 
 ## Contact
-For any queries or suggestions, please email me at anand44rohan@gmail.com.
+For any queries or suggestions, please email me at welcomeblessingssayi@gmail.com.
