@@ -1,0 +1,8 @@
+gcsfs
+fsspec
+pyspark
+pandas-datareader
+pandas
+google
+google-cloud
+python-dotenv
